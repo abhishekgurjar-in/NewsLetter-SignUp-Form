@@ -21,7 +21,6 @@ The **Newsletter Signup Form** is a web application designed to allow users to s
 - **JavaScript**: Handles email validation and displays the success message based on user input.
 
 
-
 ## Installation
 
 To get started with the project, follow these steps:
