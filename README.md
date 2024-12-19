@@ -27,7 +27,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekgurjar-in/Newsletter-Signup-Form.git
+    git clone https://github.com/abhishekboadgurjar/Newsletter-Signup-Form.git
     ```
 
 2. **Open the project directory**:
@@ -49,7 +49,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the Newsletter Signup Form project [here](https://abhishekgurjar-in.github.io/Newsletter-Signup-Form/).
+You can check out the live demo of the Newsletter Signup Form project [here](https://abhishekboadgurjar.github.io/Newsletter-Signup-Form/).
 
 ## Screenshots
  ![Screenshot 2024-08-30 223657](https://github.com/user-attachments/assets/c74a5393-1eac-4382-964c-7ed8f7f3aa76)
@@ -65,5 +65,5 @@ This project was developed as part of my continuous learning journey in web deve
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekgurjar-in)
+  - [GitHub Profile](https://github.com/abhishekboadgurjar)
 
